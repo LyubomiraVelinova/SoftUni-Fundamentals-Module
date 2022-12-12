@@ -36,3 +36,6 @@ The course examines fundamental concepts in programming. It is a continuation of
 7. Database Basics
 8. Git and GitHub
 9. QA Introduction
+
+[Python Fundamentals - May 2020 - Certificate.pdf](https://github.com/LyubomiraMihova/Fundamentals_Module/files/10212331/Python.Fundamentals.-.May.2020.-.Certificate.pdf)
+
