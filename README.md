@@ -6,17 +6,22 @@ The course examines fundamental concepts in programming. It is a continuation of
 
 ## Python Fundamentals Content
 1. Basic Syntax, Conditional Statements and Loops
-    - Lab
-    - Exercise
+    - Lab & Exercise
 2. Data Types and Variables
-    -  Lab
-    - Exercise
+    - Lab & Exercise
 3. Lists Basics
-    - Lab
-    - Exercise
+    - Lab & Exercise
 4. Functions
-    - Lab
-    - Exercise
+    - Lab & Exercise
 5. Lists Advanced
-    - Lab
-    - Exercise
+    - Lab & Exercise
+6. Objects and Classes
+    - Lab & Exercise
+7. Dictionaries
+    - Lab & Exercise
+8. Text Processing
+    - Lab & Exercise
+9. Regular Expressions
+    - Lab & Exercise
+10. Mid Exam and Practical Exam
+11. Basic Web Project
