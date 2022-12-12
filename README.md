@@ -25,3 +25,15 @@ The course examines fundamental concepts in programming. It is a continuation of
     - Lab & Exercise
 10. Mid Exam and Practical Exam
 11. Basic Web Project
+
+## Programming Fundamentals Content
+1. Basic HTML
+2. Basic CSS
+3. HTTP Basics
+4. Problem Solving
+5. Bitwise Operations
+6. Software Development Concepts
+7. Database Basics
+8. Git and GitHub
+9. QA Introduction
+10. 
