@@ -36,4 +36,3 @@ The course examines fundamental concepts in programming. It is a continuation of
 7. Database Basics
 8. Git and GitHub
 9. QA Introduction
-10. 
