@@ -39,3 +39,4 @@ The course examines fundamental concepts in programming. It is a continuation of
 
 [Python Fundamentals - May 2020 - Certificate.pdf](https://github.com/LyubomiraMihova/Fundamentals_Module/files/10212331/Python.Fundamentals.-.May.2020.-.Certificate.pdf)
 
+![Python Fundamentals - May 2020 - Certificate](C:\Users\ROG_G531GT\Desktop\homework_python\Fundamentals_Module)
