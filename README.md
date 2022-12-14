@@ -1,4 +1,4 @@
-# [Fundamentals_Module - may 2020](https://softuni.bg/trainings/2833/python-fundamentals-may-2020)
+# [Fundamentals Module - may 2020](https://softuni.bg/trainings/2833/python-fundamentals-may-2020)
 Includes Python Fundamentals and Programming Fundamentals Courses
 
 ## Course Intro
