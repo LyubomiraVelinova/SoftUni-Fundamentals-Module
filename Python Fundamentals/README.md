@@ -1,4 +1,5 @@
 ## Python Fundamentals Content
+
 1. Basic Syntax, Conditional Statements and Loops
     - Lab & Exercise
 2. Data Types and Variables
