@@ -7,6 +7,6 @@ for word in words:
         dictionary[word_lower] = 0
     dictionary[word_lower] += 1
 
-for key,value in dictionary.items():
+for key, value in dictionary.items():
     if value % 2 != 0:
         print(key, end=" ")
