@@ -47,6 +47,7 @@ while line != "Lumpawaroo":
 
 sorted_force_book = dict(sorted(sides.items(), key=lambda x: (-len(x[1]), x[0])))
 
+
 for key, people in sorted_force_book.items():
     if len(people) == 0:
         continue
